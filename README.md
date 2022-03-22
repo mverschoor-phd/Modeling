@@ -1,4 +1,4 @@
-# Modeling
+# Modeling and Plotting
 Repository for data modeling templates to refer to when working on larger projects.
 
 ### Files
